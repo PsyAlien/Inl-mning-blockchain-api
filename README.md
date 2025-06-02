@@ -83,4 +83,4 @@ npx vitest run
 
 ## 👨‍💻 Av: Mohammed  
 Medieinstitutet – Blockchainutbildning  
-Inlämningsdatum: [Ditt datum här]
+Inlämningsdatum: [2025-06-02]
